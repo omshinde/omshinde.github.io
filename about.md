@@ -85,7 +85,7 @@ permalink: /about/
 </table>
         
 
-My research interests lies at the intersection of 3D computer vision, machine learning, embedded systems, Internet of Things, high performance computing and signal processing. My Masters-PhD topic involves application of Machine Learning for onboard point cloud processing. <br/>
+My research interests lie at the intersection of 3D computer vision, machine learning, embedded systems, Internet of Things, high performance computing and signal processing. My Masters-PhD topic involves application of Machine Learning for onboard point cloud processing. <br/>
 
 ### <heading> Research </heading>
 <p>
