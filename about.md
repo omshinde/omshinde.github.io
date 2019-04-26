@@ -164,7 +164,7 @@ Image Pre-processing using Lee & Gradient-Inverse Kernels
 
 - [OSGeo](https://www.osgeo.org/) India - [Charter Member](https://wiki.osgeo.org/wiki/User:Rajatshinde)
 
-- [Google Summer of Code 2018](https://summerofcode.withgoogle.com/archive/2017/projects/5784917489221632/) Mentor for [MapMint](http://mapmint.com/) under [OSGeo](https://summerofcode.withgoogle.com/archive/2017/organizations/4554340639440896/) organization <br/>
+- Google Summer of Code 2018 Mentor for [MapMint](http://mapmint.com/) under [OSGeo](https://summerofcode.withgoogle.com/archive/2017/organizations/4554340639440896/) organization <br/>
 
 - [Google Summer of Code 2017](https://summerofcode.withgoogle.com/archive/2017/projects/5784917489221632/) Student for [MapMint](http://mapmint.com/) under [OSGeo](https://summerofcode.withgoogle.com/archive/2017/organizations/4554340639440896/) organization
     - Added Audio and Video data recording capability to the [MapMint4ME](https://play.google.com/store/apps/details?id=fr.geolabs.dev.mapmint4me&hl=en_GB) Android application
