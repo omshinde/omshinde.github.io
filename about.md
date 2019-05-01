@@ -189,8 +189,8 @@ Image Pre-processing using Lee & Gradient-Inverse Kernels
 
 
 ### <heading>Teaching Assistantship</heading>
-- **GNR 605** - Principles of Geographic Information Systems Lab 2018 Autumn
-- **GNR 605** - Principles of Geographic Information Systems Lab 2017 Autumn
+- **GNR 615** - Principles of Geographic Information Systems Lab 2018 Autumn
+- **GNR 615** - Principles of Geographic Information Systems Lab 2017 Autumn
 - **GNR 603** - Satellite Image Processing 2017 Autumn
 - **GNR 402** - Introduction to Geographic Information Systems 2017 Autumn
           
