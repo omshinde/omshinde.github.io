@@ -3,9 +3,11 @@ layout: post
 title:  "Google Summer of Earth Engine 2019 with Nature Conservation Foundation"
 ---
 
+<style>
 .center {
   text-align: center;
 }
+</style>
 
 ## Building an App for Robust Visualization of Ecological Status and Change in a Region
 
