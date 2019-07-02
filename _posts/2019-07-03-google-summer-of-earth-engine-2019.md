@@ -7,6 +7,8 @@ title:  "Google Summer of Earth Engine 2019 with Nature Conservation Foundation"
 .center {
   text-align: center;
 }
+
+img[alt=GEEApp] { width: 400px; }
 </style>
 
 ## Building an App for Robust Visualization of Ecological Status and Change in a Region
@@ -20,7 +22,7 @@ But, the questions which arises in front of us are - *What are the parameters wh
 Now, addressing the questions raised above, it has been observed that satellite images provide us with a lot of information which could be used to understand the ecological status in a region. In the recent research, a lot of improvements has been done in defining the proxies on the satellite images which plays a significant role in defining the variation in real-world. One such example is of urbanisation. The satellite derived products and indices can show the existing settlement and built-up areas in a region. It is worth noting here that this information would provide spatial context. We can use the archives of such products to understand the temporal context over a period of years. 
 
 {:.center}
-![Google Earth Engine App]({{site.baseurl}}/assets/images/earthEngine.jpg =400x400)
+![GEEApp]({{site.baseurl}}/assets/images/earthEngine.jpg)
 
 Google Earth Engine provides an end-to-end platform comprising of an inventory of datasets, algorithms for processing the datasets for specific applications and several other functionalities. The most important part is that Google Earth Engine provides the implementation of algorithms even for large geographical regions which corresponds to huge computation. Moreover, with the availability of UI features, it is also possible to wrap the implementation in the form of Earth Engine Apps.
 
