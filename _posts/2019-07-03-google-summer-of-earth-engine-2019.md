@@ -28,7 +28,6 @@ In our app, we are making complete use of the above-mentioned superb facilities 
 
 {:.center}
 ![Workflow of Google Earth Engine App]({{site.baseurl}}/assets/images/soee_workflow.png)
-Workflow of Google Earth Engine App
 
 Currently, we are approaching towards the completion of the project. In the following posts, I would be adding more details about the Google Earth Engine platform, my experience of working in Summer of Earth Engine 2019 and obviously, the application which we are developing. 
 
