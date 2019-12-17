@@ -25,13 +25,13 @@ permalink: /about/
     i,
     a {
       font-family: 'Lato', Verdana, Helvetica, sans-serif;
-      font-size: 14px;
+      font-size: 16px;
       text-align:justify;
     }
     
     strong {
       font-family: 'Lato', Verdana, Helvetica, sans-serif;
-      font-size: 14px;
+      font-size: 16px;
     }
     
     heading {
@@ -41,13 +41,17 @@ permalink: /about/
     
     papertitle {
       font-family: 'Lato', Verdana, Helvetica, sans-serif;
-      font-size: 14px;
+      font-size: 16px;
       font-weight: 700
     }
     
     name {
       font-family: 'Lato', Verdana, Helvetica, sans-serif;
       font-size: 32px;
+    }
+    news {
+      font-family: 'Calibri', Verdana, Helvetica, sans-serif;
+      font-size: 16px;
     }
     
 
@@ -87,31 +91,76 @@ permalink: /about/
 
 My research interests lie at the intersection of 3D computer vision, machine learning, embedded systems, Internet of Things, high performance computing and signal processing. My Masters-PhD topic involves application of Machine Learning for onboard point cloud processing. <br/>
 
+<a href="mailto:rajatshinde@iitb.ac.in">Email | </a>
+<a href="https://scholar.google.com/citations?hl=en&user=8T3fy5wAAAAJ">Scholar | </a>
+<a href="https://orcid.org/0000-0002-9505-6204">ORCID | </a>
+<a href="https://www.osgeo.org/member/shinde/">OSGeo | </a>
+<a href="https://www.linkedin.com/in/rajat-shinde/">LinkedIn | </a>
+<a href="https://www.twitter.com/shinde_rajat">Twitter | </a>
+<a href="https://github.com/omshinde">Github </a>
+
+### <heading> News </heading>
+<news><p>
+  <ul>
+    <li>
+      [September 2019] Took a session on <a href="https://docs.google.com/presentation/d/11vX84AscOWIQzRXqbA_xNc5eAtRkJXc0IlsWJnSrQd0/edit?usp=sharing">"Earth Engine UI & Web Apps"</a> at the Earth Engine India Student Summit 2019. Thanks to Google Earth Outreach team for organizing this event
+    </li>
+    <li>
+      [August 2019] We successfully orgnanised a workshop on <a href="https://2019.foss4g.org/schedule/workshops/"> "Building Standards Compliant Geospatial Web Applications – The Quick and Easy MapMint Way" </a> in FOSS4G 2019 conference held in Bucharest
+    </li>
+    <li>
+      [August 2019] First trip to Japan. Attended and presented papers at the <a href="https://igarss2019.org/">IEEE Geoscience and Remote Sensing Symposium (IGARSS 2019) </a>held in Yokohama, Japan
+    </li>
+    <li>
+      [August 2019] Successfully completed the project "EcoViz: A Google Earth Engine based web application for robust visualization of ecological status of selected world heritage sites of the Western Ghats in India" with <a href="https://www.ncf-india.org/">Nature Conservation Foundation</a> for the <a href="https://sites.google.com/view/summerofearthengine/mentees">Google Summer of Earth Engine Research Program</a>
+    </li>
+    <li>
+      [August 2019] End of the Google Summer of Code 2019. It was a great experience mentoring 2 successful projects along with the MapMint team under the OSGeo organization 
+    </li>
+    <li>
+      [July 2019] Webinar on "Hyperparameter Tuning in Google Earth Engine" at the <a href="https://youtu.be/CfPJb5iAsKg">Community on Air Webinar </a>organized by the Google Earth Engine India Community
+    </li>
+  </ul>
+</p>
+</news>
+
 ### <heading> Research </heading>
 <p>
 <ul>
   <li><papertitle>Compressive Sensing Based Reconstruction And Pixel-Level Classification of VHR Disaster Satellite Imagery Using Deep Learning</papertitle> <br/>
     Rajat Shinde, Abhishek Potnis, Surya Durbha, Prakash Andugula <br/>
-    <i>Paper Accepted in IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2019), Japan</i> <br/>
+    <i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2019), Japan</i> <br/>
+    <a href="https://ieeexplore.ieee.org/abstract/document/8899871">
+        pdf | </a>
+    <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:awCZpieo8Y0J:scholar.google.com/&output=citation&scisdr=CgXmaxNXEP7m-RYXhZU:AAGBfm0AAAAAXfkSnZX94zHyuphdElB0CtAfeZvnwtui&scisig=AAGBfm0AAAAAXfkSnfLnTXQArAW_NQhsCZQUl9YIlMNI&scisf=4&ct=citation&cd=-1&hl=en"> BibTeX </a>
   </li>
   <li><papertitle>Multi-class Segmentation of Urban Floods From Multispectral Imagery Using Deep Learning</papertitle> <br/>
     Abhishek Potnis, Rajat Shinde, Surya Durbha, Kuldeep Kurte <br/>
-    <i>Paper Accepted in IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2019), Japan</i> <br/>
+    <i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2019), Japan</i> <br/>
+    <a href="https://ieeexplore.ieee.org/abstract/document/8900250">
+        pdf | </a>
+    <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:i4G80NQ6jtsJ:scholar.google.com/&output=citation&scisdr=CgXmaxNXEP7m-RYWzpk:AAGBfm0AAAAAXfkT1plUeK7wosNKgkhjp0p9DQeutkF7&scisig=AAGBfm0AAAAAXfkT1tQzpieqlz9rcwfXIRBBzmXqHdIo&scisf=4&ct=citation&cd=-1&hl=en"> BibTeX </a>
   </li>
   <li><papertitle>Rapid Earthquake Damage Detection Using Deep Learning From VHR Remote Sensing Images</papertitle> <br/>
     Ujwala Bhangale, Surya Durbha, Abhishek Potnis, Rajat Shinde <br/>
-    <i>Paper Accepted in IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2019), Japan </i> <br/>
+    <i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2019), Japan </i> <br/>
+    <a href="https://ieeexplore.ieee.org/abstract/document/8898147">
+        pdf | </a>
+    <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:U8k2CfeFlA4J:scholar.google.com/&output=citation&scisdr=CgXmaxNXEP7m-RYRM-I:AAGBfm0AAAAAXfkUK-Jfvpw8W_u_fmzbHeNhLyKvagKM&scisig=AAGBfm0AAAAAXfkUKzLyuQB2xlQrlatUMiukbhMdOELg&scisf=4&ct=citation&cd=-1&hl=en"> BibTeX </a>
   </li>
   <li><papertitle>Semantic Framework For Spatial Query Reformulation For Disaster Monitoring Applications</papertitle> <br/>
     Kuldeep Kurte, Abhishek Potnis, Surya Durbha, Rajat Shinde <br/>
-    <i>Paper Accepted in IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2019), Japan </i> <br/>
+    <i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2019), Japan </i> <br/>
+    <a href="https://ieeexplore.ieee.org/abstract/document/8898986">
+        pdf | </a>
+    <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:RwM-SWxh9hgJ:scholar.google.com/&output=citation&scisdr=CgXmaxNXEP7m-RYRfQQ:AAGBfm0AAAAAXfkUZQTFtJ9vF9bhy4RRYnFp0yg2aBlQ&scisig=AAGBfm0AAAAAXfkUZUpGqCS9FdE61YAVUAuepT0dMT4T&scisf=4&ct=citation&cd=-1&hl=en"> BibTeX </a>
   </li>
   <li><papertitle>Information Table based Decision Approach for Broadcast Storm Suppression in Vehicular Ad-Hoc Networks</papertitle> <br/>
     Aditya Om, Rajat Shinde, Sejal Agrawal, A.S. Raghuvanshi <br/>
     <i>International Journal of Engineering and Technical Research V5(04), April 2016</i> <br/>
     <a href="http://dx.doi.org/10.17577/IJERTV5IS040769">
-        DOI: 10.17577/IJERTV5IS040769 
-    </a>
+        pdf | </a>
+    <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:6s4dZ8x-2OkJ:scholar.google.com/&output=citation&scisdr=CgXmaxNXEP7m-RYRvWU:AAGBfm0AAAAAXfkUpWWHUHepW4rjknXHrWaCmVAX23DD&scisig=AAGBfm0AAAAAXfkUpbwCHZ8KHij8W7xMlaD_SWM1cTDl&scisf=4&ct=citation&cd=-1&hl=en"> BibTeX </a>
   </li>
 </ul>
 </p>
@@ -119,62 +168,107 @@ My research interests lie at the intersection of 3D computer vision, machine lea
 ### <heading>Projects</heading>
 <p>
 <ul>
+  <li> 
+    <strong>Google Summer of Earth Engine 2019 </strong><br/>
+    Student developer for <a href="https://www.ncf-india.org/"> Nature Conservation Foundation</a> under the mentorship of Dr. M D Madhusudan
+      <ul><li>Developed <strong>EcoViz: A Google Earth Engine based web application for robust visualization of ecological status of selected world heritage sites of the Western Ghats in India </strong></li></ul>
+
+    <p>
+    <a href="https://rajatshinde2303.users.earthengine.app/view/ecoviz"> App |</a>
+    <a href="https://docs.google.com/presentation/d/16WEnUgjZVqxWb4sF3HNTpyZpTTsBjNwq78UNgKM0qg4/edit?usp=sharing"> Presentation</a>
+    </p>
+  </li>
+
 <li>
-<a href="https://sites.google.com/view/eeindia-advanced-summit/summit-resources#h.p_xf20uslDUytp">Earth Engine India Advanced Summit Buildathon 2019 </a> <br/>
+<strong>Earth Engine India Advanced Summit Buildathon 2019 </strong> <br/>
     Worked on "Locating Solar Farms in Selected Sites of India using Google Earth Engine"
     <ul>
-    <li>In a team of 6, implemented random-forest classifier to solve binary classification problem (Solar Farm: 1, Non-Solar farm: 0) with an accuracy of 81% </li>
-    <li>Added Wavelet Kernel-based convolution approach for solar panels texture detection thus improving the accuracy to 83.6% </li>
+      <li>In a team of 6, implemented random-forest classifier to solve binary classification problem (Solar Farm: 1, Non-Solar farm: 0) with an accuracy of 81% </li>
+      <li>Added Wavelet Kernel-based convolution approach for solar panels texture detection thus improving the accuracy to 83.6% 
+      </li>
+    </ul>
 
 
     <p>
     <a href="https://docs.google.com/presentation/d/1rVrLnrl9H-aglIA4UEr7Ajn249WBWNN2wKxDW25h-MQ/edit"> Presentation |</a>
-    <a href="https://code.earthengine.google.com/b4f563c2bf05f0a5992a68273e7c4ae0"> Code </a>
+    <a href="https://code.earthengine.google.com/b4f563c2bf05f0a5992a68273e7c4ae0"> Code |</a>
+    <a href="https://sites.google.com/view/eeindia-advanced-summit/summit-resources#h.p_xf20uslDUytp"> Buildathon </a>
     </p>
-    </ul>
 
 </li>
 <li>
-Earthquake Prediction Using Machine Learning Techniques 
+<strong>Earthquake Prediction Using Machine Learning Techniques </strong>
     <ul>
-    <li>In a team of 4, implemented machine learning models(SVM, ANN, Random Forests & Decision Tree Classifier) obtaining maximum accuracy of 94.5% to predict the earthquake in the Andaman & Nicobar Islands and Sumatra region</li>
-    <li>Extracted features (b-values) from USGS earthquake dataset of the last 26 years to train models</li>
+      <li>In a team of 4, implemented machine learning models(SVM, ANN, Random Forests & Decision Tree Classifier) obtaining maximum accuracy of 94.5% to predict the earthquake in the Andaman & Nicobar Islands and Sumatra region</li>
+      <li>Extracted features (b-values) from USGS earthquake dataset of the last 26 years to train models</li>
+    </ul>
  
     <p>
     <a href="https://drive.google.com/open?id=1W0IG_96HVdL6pO5Tj1CfjboI1nxA2Lsw"> Report</a>
     </p>
-    </ul>
+
 </li>
 <li>
-Image Pre-processing using Lee & Gradient-Inverse Kernels 
+<strong>Image Pre-processing using Lee & Gradient-Inverse Kernels </strong>
     <ul>
-    <li>Implemented Lee kernel and Gradient-Inverse kernel for satellite image pre-processing </li>
-    <li>Developed a Graphical User Interface (GUI) based application in MATLAB</li>
+      <li>Implemented Lee kernel and Gradient-Inverse kernel for satellite image pre-processing </li>
+      <li>Developed a Graphical User Interface (GUI) based application in MATLAB</li>
+    </ul>
 
     <p>
     <a href="https://github.com/omshinde/Lee-GradInv-filters#lee-gradinv-filters"> Report |</a>
     <a href="https://github.com/omshinde/Lee-GradInv-filters"> Code</a>
     </p>
-    </ul>
 </li>
 </ul>
 </p>
  
 ### <heading>Open Source Contributions</heading>
+<p><ul>
+  <li>
 
-- [OSGeo](https://www.osgeo.org/) India - [Charter Member](https://wiki.osgeo.org/wiki/User:Rajatshinde)
+    <strong>Google Summer of Code 2019 </strong>Mentor for <a href="http://mapmint.com/"> MapMint</a> under <a href="https://summerofcode.withgoogle.com/archive/2017/organizations/4554340639440896/">OSGeo</a> organization 
+    <ul>
+        <li>Adding Augmented Reality (AR) support to the MapMint4ME Android Application
 
-- Google Summer of Code 2018 Mentor for [MapMint](http://mapmint.com/) under [OSGeo](https://summerofcode.withgoogle.com/archive/2017/organizations/4554340639440896/) organization <br/>
+          <p>
+          <a href="https://summerofcode.withgoogle.com/archive/2019/projects/5962182162907136/"> Project |</a>
+          <a href="https://github.com/AdityaChondke/MapMint4ME/wiki/Final-Report-GSoC-2019"> Report </a>
+          </p>
+        </li>
 
-- [Google Summer of Code 2017](https://summerofcode.withgoogle.com/archive/2017/projects/5784917489221632/) Student for [MapMint](http://mapmint.com/) under [OSGeo](https://summerofcode.withgoogle.com/archive/2017/organizations/4554340639440896/) organization
-    - Added Audio and Video data recording capability to the [MapMint4ME](https://play.google.com/store/apps/details?id=fr.geolabs.dev.mapmint4me&hl=en_GB) Android application
-    - Added Sensor data recording capability to the MapMint4ME Android application for remote data acquisition
+        <li>MapMint - porting from Python 2.x to Python 3.x
+
+        <p>
+        <a href="https://summerofcode.withgoogle.com/archive/2019/projects/4859857885200384/"> Project |</a>
+        <a href="https://github.com/fenilgmehta/mapmint/wiki/GSoC-2019---Final-Report"> Report </a>
+        </p>
+        </li>
+    </ul>
+  </li><br/>
+  <li><a href="https://www.osgeo.org/">OSGeo </a> India - <a href="https://www.osgeo.org/about/charter-members/">Charter Member </a></li><br/>
+
+  <li>
+    <strong>Google Summer of Code 2018 </strong>Mentor for <a href="http://mapmint.com/"> MapMint</a> under <a href="https://summerofcode.withgoogle.com/archive/2018/organizations/4890968767594496/">OSGeo</a> organization
+  </li><br/>
+
+  <li>
+    <strong>Google Summer of Code 2017 </strong>Student for <a href="http://mapmint.com/">MapMint </a>under <a href="https://summerofcode.withgoogle.com/archive/2017/organizations/4554340639440896/">OSGeo </a>organization
+    <ul>
+      <li>Added Audio and Video data recording capability to the <a href="https://play.google.com/store/apps/details?id=fr.geolabs.dev.mapmint4me&hl=en_GB">MapMint4ME </a> Android application
+      </li>
+      <li>Added Sensor data recording capability to the MapMint4ME Android application for remote data acquisition
+      </li>
+    </ul>
+
 
     <p>
     <a href="https://summerofcode.withgoogle.com/archive/2017/projects/5784917489221632/"> Project |</a>
     <a href="https://wiki.osgeo.org/wiki/GSoC_17:_Add_Audio,_Video_and_SOS_input_support_in_MapMint4ME"> Wiki </a>
     <a href="{{site.baseurl}}/assets/docs/gsocCertificate2017.pdf"> | Certificate of Completion </a>
     </p>
+  </li>
+</ul></p>
 
 ### <heading>Awards</heading>
 
@@ -183,9 +277,8 @@ Image Pre-processing using Lee & Gradient-Inverse Kernels
 
 - [DST & Texas Instruments India Innovation Challenge Design Contest 2017](https://innovate.mygov.in/india-innovation-challenge-design-contest-2017/) <br/>
     Quarter Finalists for the Innovation Challenge anchored by IIM, Bangalore
-    <p>
-    <a href="https://drive.google.com/file/d/1yoJd7kPHHDMmLKik_YqeU4gIEYzWPXA4/view">Certificate </a>
-    </p>
+
+  <a href="https://drive.google.com/file/d/1yoJd7kPHHDMmLKik_YqeU4gIEYzWPXA4/view">Certificate </a>
 
 
 ### <heading>Teaching Assistantship</heading>
