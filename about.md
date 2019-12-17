@@ -70,6 +70,7 @@ permalink: /about/
 	border:1px solid #ffffff;
     }
 </style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
       <tr>
@@ -132,36 +133,92 @@ My research interests lie at the intersection of 3D computer vision, machine lea
     <i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2019), Japan</i> <br/>
     <a href="https://ieeexplore.ieee.org/abstract/document/8899871">
         pdf | </a>
-    <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:awCZpieo8Y0J:scholar.google.com/&output=citation&scisdr=CgXmaxNXEP7m-RYXhZU:AAGBfm0AAAAAXfkSnZX94zHyuphdElB0CtAfeZvnwtui&scisig=AAGBfm0AAAAAXfkSnfLnTXQArAW_NQhsCZQUl9YIlMNI&scisf=4&ct=citation&cd=-1&hl=en"> BibTeX </a>
+    <a href="#link" onclick="$('iframe#csIgarss').toggle()"> BibTeX </a><br />
+    
+    <iframe srcdoc="<pre>@inproceedings{shinde2019compressive,
+  title={Compressive Sensing Based Reconstruction and Pixel-Level Classification of Very High-Resolution Disaster Satellite Imagery Using Deep Learning},
+  author={Shinde, Rajat C and Potnis, Abhishek V and Durbha, Surya S and Andugula, Prakash},
+  booktitle={IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={2639--2642},
+  year={2019},
+  organization={IEEE}
+}</pre>" id="csIgarss" height="90%" width="100%" scrolling="yes" style="display:none">
+</iframe>
+
   </li>
   <li><papertitle>Multi-class Segmentation of Urban Floods From Multispectral Imagery Using Deep Learning</papertitle> <br/>
     Abhishek Potnis, Rajat Shinde, Surya Durbha, Kuldeep Kurte <br/>
     <i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2019), Japan</i> <br/>
     <a href="https://ieeexplore.ieee.org/abstract/document/8900250">
         pdf | </a>
-    <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:i4G80NQ6jtsJ:scholar.google.com/&output=citation&scisdr=CgXmaxNXEP7m-RYWzpk:AAGBfm0AAAAAXfkT1plUeK7wosNKgkhjp0p9DQeutkF7&scisig=AAGBfm0AAAAAXfkT1tQzpieqlz9rcwfXIRBBzmXqHdIo&scisf=4&ct=citation&cd=-1&hl=en"> BibTeX </a>
+    <a href="#link" onclick="$('iframe#mlIgarss').toggle()"> BibTeX </a><br />
+    
+    <iframe srcdoc="<pre>@inproceedings{potnis2019multi,
+  title={Multi-Class Segmentation of Urban Floods from Multispectral Imagery Using Deep Learning},
+  author={Potnis, Abhishek V and Shinde, Rajat C and Durbha, Surya S and Kurte, Kuldeep R},
+  booktitle={IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={9741--9744},
+  year={2019},
+  organization={IEEE}
+}</pre>" id="mlIgarss" height="90%" width="100%" scrolling="yes" style="display:none">
+</iframe>
   </li>
+
   <li><papertitle>Rapid Earthquake Damage Detection Using Deep Learning From VHR Remote Sensing Images</papertitle> <br/>
     Ujwala Bhangale, Surya Durbha, Abhishek Potnis, Rajat Shinde <br/>
     <i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2019), Japan </i> <br/>
     <a href="https://ieeexplore.ieee.org/abstract/document/8898147">
         pdf | </a>
-    <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:U8k2CfeFlA4J:scholar.google.com/&output=citation&scisdr=CgXmaxNXEP7m-RYRM-I:AAGBfm0AAAAAXfkUK-Jfvpw8W_u_fmzbHeNhLyKvagKM&scisig=AAGBfm0AAAAAXfkUKzLyuQB2xlQrlatUMiukbhMdOELg&scisf=4&ct=citation&cd=-1&hl=en"> BibTeX </a>
+   <a href="#link" onclick="$('iframe#eqIgarss').toggle()"> BibTeX </a><br />
+    
+    <iframe srcdoc="<pre>@inproceedings{bhangale2019rapid,
+  title={Rapid Earthquake Damage Detection Using Deep Learning from VHR Remote Sensing Images},
+  author={Bhangale, Ujwala and Durbha, Surya and Potnis, Abhishek and Shinde, Rajat},
+  booktitle={IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={2654--2657},
+  year={2019},
+  organization={IEEE}
+}</pre>" id="eqIgarss" height="90%" width="100%" scrolling="yes" style="display:none">
+</iframe>
   </li>
+
   <li><papertitle>Semantic Framework For Spatial Query Reformulation For Disaster Monitoring Applications</papertitle> <br/>
     Kuldeep Kurte, Abhishek Potnis, Surya Durbha, Rajat Shinde <br/>
     <i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2019), Japan </i> <br/>
     <a href="https://ieeexplore.ieee.org/abstract/document/8898986">
         pdf | </a>
-    <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:RwM-SWxh9hgJ:scholar.google.com/&output=citation&scisdr=CgXmaxNXEP7m-RYRfQQ:AAGBfm0AAAAAXfkUZQTFtJ9vF9bhy4RRYnFp0yg2aBlQ&scisig=AAGBfm0AAAAAXfkUZUpGqCS9FdE61YAVUAuepT0dMT4T&scisf=4&ct=citation&cd=-1&hl=en"> BibTeX </a>
+    <a href="#link" onclick="$('iframe#sfIgarss').toggle()"> BibTeX </a><br />
+    
+    <iframe srcdoc="<pre>@inproceedings{kurte2019semantic,
+  title={Semantic Framework for Spatial Query Reformulation for Disaster Monitoring Applications},
+  author={Kurte, Kuldeep R and Potnis, Abhishek V and Durbha, Surya S and Shinde, Rajat C},
+  booktitle={IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={9946--9949},
+  year={2019},
+  organization={IEEE}
+}</pre>" id="sfIgarss" height="90%" width="100%" scrolling="yes" style="display:none">
+</iframe>
   </li>
+
   <li><papertitle>Information Table based Decision Approach for Broadcast Storm Suppression in Vehicular Ad-Hoc Networks</papertitle> <br/>
     Aditya Om, Rajat Shinde, Sejal Agrawal, A.S. Raghuvanshi <br/>
     <i>International Journal of Engineering and Technical Research V5(04), April 2016</i> <br/>
     <a href="http://dx.doi.org/10.17577/IJERTV5IS040769">
         pdf | </a>
-    <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:6s4dZ8x-2OkJ:scholar.google.com/&output=citation&scisdr=CgXmaxNXEP7m-RYRvWU:AAGBfm0AAAAAXfkUpWWHUHepW4rjknXHrWaCmVAX23DD&scisig=AAGBfm0AAAAAXfkUpbwCHZ8KHij8W7xMlaD_SWM1cTDl&scisf=4&ct=citation&cd=-1&hl=en"> BibTeX </a>
+    <a href="#link" onclick="$('iframe#ijert').toggle()"> BibTeX </a><br />
+    
+    <iframe srcdoc="<pre>@article{shinde2016information,
+  title={Information Table based Decision Approach for Broadcast Storm Suppression in Vehicular Ad-Hoc Networks},
+  author={Shinde, Rajat Chandrashekhar and Agrawal, Sejal and Om, AS Raghuvanshi Aditya},
+  journal={International Journal of Engineering Research and Technology (IJERT)},
+  volume={5},
+  number={4},
+  pages={515--520},
+  year={2016}
+  }</pre>" id="ijert" height="90%" width="100%" scrolling="yes" style="display:none">
+  </iframe>
   </li>
+
 </ul>
 </p>
 
