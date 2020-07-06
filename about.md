@@ -107,7 +107,7 @@ My research interests lie at the intersection of 3D computer vision, machine lea
       [June 2020] 2 Papers selected as Oral Presentation at the IGARSS 2020 <i>(virtual conference)</i>
     </li>
   	<li>
-      [May 2020] Contributing as GSoC Organization Admin ad Mentor for the OSGeo
+      [May 2020] Contributing as GSoC Organization Admin and Mentor for the OSGeo
     </li>
     <li>
       [September 2019] Took a session on <a href="https://docs.google.com/presentation/d/11vX84AscOWIQzRXqbA_xNc5eAtRkJXc0IlsWJnSrQd0/edit?usp=sharing">"Earth Engine UI & Web Apps"</a> at the Earth Engine India Student Summit 2019. Thanks to Google Earth Outreach team for organizing this event
