@@ -155,10 +155,10 @@ My research interests lie at the intersection of 3D computer vision, machine lea
   <li><papertitle>Towards Natural Language Question Answering Over Earth Observation Linked Data Using Attention-based Neural Machine Translation </papertitle> <br/>
     Abhishek Potnis, Rajat Shinde, Surya Durbha<br/>
     <i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2020, virtual conference)</i> <br/>
-    #<a href="https://ieeexplore.ieee.org/abstract/document/8899871">
+    <!-- <a href="https://ieeexplore.ieee.org/abstract/document/8899871">
         pdf | </a>
-    #<a href="#link" onclick="$('iframe#csIgarss').toggle()"> BibTeX </a><br />
-    
+    <a href="#link" onclick="$('iframe#csIgarss').toggle()"> BibTeX </a><br />
+     -->
     <!-- <iframe srcdoc="<pre>@inproceedings{shinde2019compressive,
   title={Compressive Sensing Based Reconstruction and Pixel-Level Classification of Very High-Resolution Disaster Satellite Imagery Using Deep Learning},
   author={Shinde, Rajat C and Potnis, Abhishek V and Durbha, Surya S and Andugula, Prakash},
