@@ -103,6 +103,12 @@ My research interests lie at the intersection of 3D computer vision, machine lea
 ### <heading> News </heading>
 <news><p>
   <ul>
+  	<li>
+      [June 2020] 2 Papers selected as Oral Presentation at the IGARSS 2020 <i>(virtual conference)</i>
+    </li>
+  	<li>
+      [May 2020] Contributing as GSoC Organization Admin ad Mentor for the OSGeo
+    </li>
     <li>
       [September 2019] Took a session on <a href="https://docs.google.com/presentation/d/11vX84AscOWIQzRXqbA_xNc5eAtRkJXc0IlsWJnSrQd0/edit?usp=sharing">"Earth Engine UI & Web Apps"</a> at the Earth Engine India Student Summit 2019. Thanks to Google Earth Outreach team for organizing this event
     </li>
@@ -128,6 +134,42 @@ My research interests lie at the intersection of 3D computer vision, machine lea
 ### <heading> Research </heading>
 <p>
 <ul>
+	<li><papertitle>Online Point Cloud Super Resolution Using Dictionary Learning For 3d Urban Perception</papertitle> <br/>
+    Rajat Shinde, Abhishek Potnis, Surya Durbha <br/>
+    <i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2020, virtual conference) </i> <br/>
+    <!-- <a href="https://ieeexplore.ieee.org/abstract/document/8899871">
+        pdf | </a>
+    <a href="#link" onclick="$('iframe#csIgarss').toggle()"> BibTeX </a><br /> -->
+    
+    <!-- <iframe srcdoc="<pre>@inproceedings{shinde2019compressive,
+  title={Compressive Sensing Based Reconstruction and Pixel-Level Classification of Very High-Resolution Disaster Satellite Imagery Using Deep Learning},
+  author={Shinde, Rajat C and Potnis, Abhishek V and Durbha, Surya S and Andugula, Prakash},
+  booktitle={IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={2639--2642},
+  year={2019},
+  organization={IEEE}
+}</pre>" id="csIgarss" height="90%" width="100%" scrolling="yes" style="display:none">
+</iframe>
+ -->
+  </li>
+  <li><papertitle>Towards Natural Language Question Answering Over Earth Observation Linked Data Using Attention-based Neural Machine Translation </papertitle> <br/>
+    Abhishek Potnis, Rajat Shinde, Surya Durbha<br/>
+    <i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2020, virtual conference)</i> <br/>
+    #<a href="https://ieeexplore.ieee.org/abstract/document/8899871">
+        pdf | </a>
+    #<a href="#link" onclick="$('iframe#csIgarss').toggle()"> BibTeX </a><br />
+    
+    <!-- <iframe srcdoc="<pre>@inproceedings{shinde2019compressive,
+  title={Compressive Sensing Based Reconstruction and Pixel-Level Classification of Very High-Resolution Disaster Satellite Imagery Using Deep Learning},
+  author={Shinde, Rajat C and Potnis, Abhishek V and Durbha, Surya S and Andugula, Prakash},
+  booktitle={IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={2639--2642},
+  year={2019},
+  organization={IEEE}
+}</pre>" id="csIgarss" height="90%" width="100%" scrolling="yes" style="display:none">
+</iframe> -->
+
+  </li>
   <li><papertitle>Compressive Sensing Based Reconstruction And Pixel-Level Classification of VHR Disaster Satellite Imagery Using Deep Learning</papertitle> <br/>
     Rajat Shinde, Abhishek Potnis, Surya Durbha, Prakash Andugula <br/>
     <i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2019), Japan</i> <br/>
@@ -359,4 +401,3 @@ My research interests lie at the intersection of 3D computer vision, machine lea
     [Prime Minister's Trophy Sarvottam Scholarship]({{site.baseurl}}/assets/images/SAIL-PM.jpg) granted by SAIL (2012-2016) <br/>
     [National Institute of Technology Raipur](https://nitrr.ac.in), India <br/>
     [Thesis]({{site.baseurl}}/assets/docs/BTechThesis.pdf)
-
