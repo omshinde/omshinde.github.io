@@ -391,13 +391,13 @@ My research interests lie at the intersection of 3D computer vision, machine lea
 - **M.Tech - Ph.D (Dual Degree)** <br/>
     (2016 - Present) | *CPI: 9.57/10* <br/>
     Prime Minister's Research Fellow 2018 <br/>
-    [Prime Minister's Trophy Sarvottam Scholarship]({{site.baseurl}}/assets/images/SAIL-PM.jpg) granted by SAIL (2016-2018) <br/>
+    [Prime Minister's Trophy Sarvottam Scholarship]({{site.baseurl}}/assets/images/SAIL-PM-Mtech.jpg) granted by SAIL (2016-2018) <br/>
     [Centre of Studies in Resources Engineering](https://csre.iitb.ac.in) <br/>
     [Indian Institute of Technology Bombay](https://iitb.ac.in), India <br/>
 
       
 - **B.Tech** <br/>
     (2012 - 2016) | *CPI: 8.94/10* <br/>
-    [Prime Minister's Trophy Sarvottam Scholarship]({{site.baseurl}}/assets/images/SAIL-PM.jpg) granted by SAIL (2012-2016) <br/>
+    [Prime Minister's Trophy Sarvottam Scholarship]({{site.baseurl}}/assets/images/SAIL-PM-Btech.jpg) granted by SAIL (2012-2016) <br/>
     [National Institute of Technology Raipur](https://nitrr.ac.in), India <br/>
     [Thesis]({{site.baseurl}}/assets/docs/BTechThesis.pdf)
