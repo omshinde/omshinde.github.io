@@ -104,6 +104,9 @@ My research interests lie at the intersection of 3D computer vision, machine lea
 <news><p>
   <ul>
   	<li>
+      [Jan 2021] Elected as PSC (Project Steering Committee) Member for the <i><a href="https://zoo-project.org/">ZOO-Project</a></i>
+    </li>
+  	<li>
       [June 2020] 2 Papers selected as Oral Presentation at the IGARSS 2020 <i>(virtual conference)</i>
     </li>
   	<li>
@@ -164,16 +167,15 @@ My research interests lie at the intersection of 3D computer vision, machine lea
         pdf | </a>
     <a href="#link" onclick="$('iframe#csIgarss').toggle()"> BibTeX </a><br /> -->
     
-    <!-- <iframe srcdoc="<pre>@inproceedings{shinde2019compressive,
+     <!-- <iframe srcdoc="<pre>@inproceedings{shinde2019compressive,
   title={Compressive Sensing Based Reconstruction and Pixel-Level Classification of Very High-Resolution Disaster Satellite Imagery Using Deep Learning},
   author={Shinde, Rajat C and Potnis, Abhishek V and Durbha, Surya S and Andugula, Prakash},
   booktitle={IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium},
   pages={2639--2642},
   year={2019},
   organization={IEEE}
-}</pre>" id="csIgarss" height="90%" width="100%" scrolling="yes" style="display:none">
+}</pre>" id="csIgarss" height="90%" width="100%" scrolling="yes" style="display:none"> -->
 </iframe>
- -->
   </li>
   <li><papertitle>Towards Natural Language Question Answering Over Earth Observation Linked Data Using Attention-based Neural Machine Translation </papertitle> <br/>
     Abhishek Potnis, Rajat Shinde, Surya Durbha<br/>
