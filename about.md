@@ -155,7 +155,7 @@ My research interests lie at the intersection of 3D computer vision, machine lea
     pages = {32},
     author = {Abhishek V. Potnis and Surya S. Durbha and Rajat C. Shinde},
     title = {Semantics-Driven Remote Sensing Scene Understanding Framework for Grounded Spatio-Contextual Scene Descriptions},
-    journal = {{% raw %}{ISPRS} International Journal of Geo-Information}
+    journal = {% raw %}{{ISPRS} International Journal of Geo-Information}
   }{% endraw %}</pre>" id="semRSSU" height="90%" width="100%" scrolling="yes" style="display:none">
 </iframe>
     
