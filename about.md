@@ -142,7 +142,22 @@ My research interests lie at the intersection of 3D computer vision, machine lea
     <i><a href="https://www.mdpi.com/journal/ijgi">ISPRS International Journal of Geo-Information</a></i> <br/>
     <a href="https://doi.org/10.3390/ijgi10010032">
         pdf | </a>
-    <a href="#link" onclick="$('iframe#semrssu').toggle()"> BibTeX </a><br />
+    <a href="#link" onclick="$('iframe#semRSSU').toggle()"> BibTeX </a><br />
+
+    <iframe srcdoc="<pre>@article{Potnis2021,
+    doi = {10.3390/ijgi10010032},
+    url = {https://doi.org/10.3390/ijgi10010032},
+    year = {2021},
+    month = jan,
+    publisher = {{MDPI} {AG}},
+    volume = {10},
+    number = {1},
+    pages = {32},
+    author = {Abhishek V. Potnis and Surya S. Durbha and Rajat C. Shinde},
+    title = {Semantics-Driven Remote Sensing Scene Understanding Framework for Grounded Spatio-Contextual Scene Descriptions},
+    journal = {{ISPRS} International Journal of Geo-Information}
+  }</pre>" id="semRSSU" height="90%" width="100%" scrolling="yes" style="display:none">
+</iframe>
     
   </li>
 	<li><papertitle>Online Point Cloud Super Resolution Using Dictionary Learning For 3d Urban Perception</papertitle> <br/>
