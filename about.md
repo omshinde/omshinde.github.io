@@ -103,7 +103,10 @@ My research interests lie at the intersection of 3D computer vision, machine lea
 ### <heading> News </heading>
 <news><p>
   <ul>
-  	<li>
+  	<li>[Jan 2021]: Our <a href="https://doi.org/10.3390/ijgi10010032" target="_blank">work</a> on rendering Comprehensive Spatio-Contextual Grounded Natural Language Scene Descriptions from Remote Sensing Scenes has been published in the Special Issue on <a href="https://www.mdpi.com/journal/ijgi/special_issues/geo_ai" target="_blank">"Geospatial Artifical Intelligence"</a>
+in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS International Journal of Geo-Information</a>.
+	</li>
+	<li>
       [Jan 2021] Elected as PSC (Project Steering Committee) Member for the <i><a href="https://zoo-project.org/">ZOO-Project</a></i>
     </li>
   	<li>
