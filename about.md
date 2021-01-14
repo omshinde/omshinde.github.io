@@ -149,7 +149,7 @@ My research interests lie at the intersection of 3D computer vision, machine lea
     url = {https://doi.org/10.3390/ijgi10010032},
     year = {2021},
     month = jan,
-    publisher = {{MDPI} {AG}},
+    publisher = {% raw %}{{MDPI} {AG}}{% endraw %},
     volume = {10},
     number = {1},
     pages = {32},
