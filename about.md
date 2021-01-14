@@ -144,7 +144,7 @@ My research interests lie at the intersection of 3D computer vision, machine lea
         pdf | </a>
     <a href="#link" onclick="$('iframe#semrssu').toggle()"> BibTeX </a><br />
     
-    <iframe srcdoc="<pre>@article{Potnis2021,
+    <!-- <iframe srcdoc="<pre>@article{Potnis2021,
     doi = {10.3390/ijgi10010032},
     url = {https://doi.org/10.3390/ijgi10010032},
     year = {2021},
@@ -157,7 +157,7 @@ My research interests lie at the intersection of 3D computer vision, machine lea
     title = {Semantics-Driven Remote Sensing Scene Understanding Framework for Grounded Spatio-Contextual Scene Descriptions},
     journal = {{ISPRS} International Journal of Geo-Information}
   }</pre>" id="semrssu" height="90%" width="100%" scrolling="yes" style="display:none">
-</iframe>
+    </iframe> -->
 
   </li>
 	<li><papertitle>Online Point Cloud Super Resolution Using Dictionary Learning For 3d Urban Perception</papertitle> <br/>
