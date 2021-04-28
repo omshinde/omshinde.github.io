@@ -123,7 +123,7 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
  
   <br/>
   <!-- <a href="#link" onclick="$('iframe#moreNews').toggle()"> <b><i> Past news...</i></b></a><br /> -->
-  <a href="#link" onclick="moreNews()"> <b><i> Past news...</i></b></a><br />
+  <a href="#link" onclick="$('iframe#myIframe').toggle()"> <b><i> Past news...</i></b></a><br />
   
   <iframe id="myIframe" height="90%" width="100%" scrolling="yes" style="display:none">
   <div id="moreNews" height="90%" width="100%">
