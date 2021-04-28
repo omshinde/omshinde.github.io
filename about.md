@@ -217,27 +217,40 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
 	<li><papertitle>Online Point Cloud Super Resolution Using Dictionary Learning For 3d Urban Perception</papertitle> <br/>
     Rajat Shinde, Abhishek Potnis, Surya Durbha <br/>
     <i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2020, virtual conference) </i> <br/>
-    <!-- <a href="https://ieeexplore.ieee.org/abstract/document/8899871">
+    <a href="https://ieeexplore.ieee.org/abstract/document/9323992">
         pdf | </a>
-    <a href="#link" onclick="$('iframe#csIgarss').toggle()"> BibTeX </a><br /> -->
+    <a href="#link" onclick="$('iframe#odlIgarss').toggle()"> BibTeX </a><br />
+
+    <!-- <iframe srcdoc="<pre>@INPROCEEDINGS{9323992,
+  author={Shinde, Rajat C. and Potnis, Abhishek V. and Durbha, Surya S.},
+  booktitle={IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={Online Point Cloud Super Resolution using Dictionary Learning for 3D Urban Perception}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={4414-4417},
+  doi={10.1109/IGARSS39084.2020.9323992}}</pre>" id="odlIgarss" height="90%" width="100%" scrolling="yes" style="display:none">
+</iframe> -->
     
   </li>
   <li><papertitle>Towards Natural Language Question Answering Over Earth Observation Linked Data Using Attention-based Neural Machine Translation </papertitle> <br/>
     Abhishek Potnis, Rajat Shinde, Surya Durbha<br/>
     <i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2020, virtual conference)</i> <br/>
-    <!-- <a href="https://ieeexplore.ieee.org/abstract/document/8899871">
+    <a href="https://ieeexplore.ieee.org/abstract/document/9323183">
         pdf | </a>
-    <a href="#link" onclick="$('iframe#csIgarss').toggle()"> BibTeX </a><br />
+    <a href="#link" onclick="$('iframe#nlqaIgarss').toggle()"> BibTeX </a><br />
      -->
-    <!-- <iframe srcdoc="<pre>@inproceedings{shinde2019compressive,
-  title={Compressive Sensing Based Reconstruction and Pixel-Level Classification of Very High-Resolution Disaster Satellite Imagery Using Deep Learning},
-  author={Shinde, Rajat C and Potnis, Abhishek V and Durbha, Surya S and Andugula, Prakash},
-  booktitle={IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium},
-  pages={2639--2642},
-  year={2019},
-  organization={IEEE}
-}</pre>" id="csIgarss" height="90%" width="100%" scrolling="yes" style="display:none">
-</iframe> -->
+    <iframe srcdoc="<pre>@INPROCEEDINGS{9323183,
+  author={Potnis, Abhishek V. and Shinde, Rajat C. and Durbha, Surya S.},
+  booktitle={IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={Towards Natural Language Question Answering Over Earth Observation Linked Data Using Attention-Based Neural Machine Translation}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={577-580},
+  doi={10.1109/IGARSS39084.2020.9323183}}
+</pre>" id="nlqaIgarss" height="90%" width="100%" scrolling="yes" style="display:none">
+</iframe>
 
   </li>
   <li><papertitle>Compressive Sensing Based Reconstruction And Pixel-Level Classification of VHR Disaster Satellite Imagery Using Deep Learning</papertitle> <br/>
