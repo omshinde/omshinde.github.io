@@ -90,7 +90,7 @@ permalink: /about/
 </table>
         
 
-My research interests lie at the intersection of 3D computer vision, machine learning, embedded systems, Internet of Things, high performance computing and signal processing. My Masters-PhD topic involves application of Machine Learning for onboard point cloud processing. <br/>
+My research interests lie at the intersection of 3D computer vision, machine learning, embedded systems, Internet of Things, high-performance computing and signal processing. My Masters-PhD topic involves application of deep learning for onboard point cloud processing. <br/>
 
 <a href="mailto:rajatshinde@iitb.ac.in">Email | </a>
 <a href="https://scholar.google.com/citations?hl=en&user=8T3fy5wAAAAJ">Scholar | </a>
@@ -99,18 +99,33 @@ My research interests lie at the intersection of 3D computer vision, machine lea
 <a href="https://www.linkedin.com/in/rajat-shinde/">LinkedIn | </a>
 <a href="https://www.twitter.com/shinde_rajat">Twitter | </a>
 <a href="https://github.com/omshinde">Github </a>
+<a href="http://home.iitb.ac.in/~rajatshinde/pmrfWebPage/assets/docs/CV_RajatShinde.pdf">CV </a>
 
 ### <heading> News </heading>
 <news><p>
   <ul>
-  	<li>[Jan 2021]: Our <a href="https://doi.org/10.3390/ijgi10010032" target="_blank">work</a> on rendering Comprehensive Spatio-Contextual Grounded Natural Language Scene Descriptions from Remote Sensing Scenes has been published in the Special Issue on <a href="https://www.mdpi.com/journal/ijgi/special_issues/geo_ai" target="_blank">"Geospatial Artifical Intelligence"</a>
+  	<li>[Apr 2021]: I would be mentoring for the <a href="https://www.osgeo.org/foundation-news/2021-osgeo-un-committee-educational-challenge/" target="_blank"> United Nations - OSGeo Open Education Challenge 2021. </a> 
+	</li>
+  <li>[Apr 2021]: My <a href="https://youtu.be/0BWB33IZTgE" target="_blank">talk </a> on EcoViz was broadcast live in the Geo for Good Lightning Talk series hosted by Google Earth Outreach.</a> 
+	</li>
+    <li>[Apr 2021]: It was an amazing learning experience attending the Google Graduate Symposium; Made new friends, attended highly insightful talks and lectures. 
+	</li>
+    <li>[Apr 2021]: Our Paper got selected for the IEEE STRATUS 2021 conference (virtual conference)
+	</li>
+    <li>[Mar 2021]: 3 Papers selected in the IEEE IGARSS 2021 (virtual conference)
+	</li>
+    <li>[Jan 2021]: Our <a href="https://doi.org/10.3390/ijgi10010032" target="_blank">work</a> on rendering Comprehensive Spatio-Contextual Grounded Natural Language Scene Descriptions from Remote Sensing Scenes has been published in the Special Issue on <a href="https://www.mdpi.com/journal/ijgi/special_issues/geo_ai" target="_blank">"Geospatial Artifical Intelligence"</a>
 in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS International Journal of Geo-Information</a>.
 	</li>
 	<li>
       [Jan 2021] Elected as PSC (Project Steering Committee) Member for the <i><a href="https://zoo-project.org/">ZOO-Project</a></i>
     </li>
+
+  <a href="#link" onclick="$('iframe#moreNews').toggle()"> <i> Past news...</i></a><br />
+
+  <iframe srcdoc="" id="moreNews" height="90%" width="100%" scrolling="yes" style="display:none">
   	<li>
-      [June 2020] 2 Papers selected as Oral Presentation at the IGARSS 2020 <i>(virtual conference)</i>
+      [June 2020] 2 Papers selected as Oral Presentation at the IEEE IGARSS 2020 <i>(virtual conference)</i>
     </li>
   	<li>
       [May 2020] Contributing as GSoC Organization Admin and Mentor for the OSGeo
@@ -133,6 +148,7 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
     <li>
       [July 2019] Webinar on "Hyperparameter Tuning in Google Earth Engine" at the <a href="https://youtu.be/CfPJb5iAsKg">Community on Air Webinar </a>organized by the Google Earth Engine India Community
     </li>
+    </iframe>
   </ul>
 </p>
 </news>
