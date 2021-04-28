@@ -98,7 +98,7 @@ My research interests lie at the intersection of 3D computer vision, machine lea
 <a href="https://www.osgeo.org/member/shinde/">OSGeo | </a>
 <a href="https://www.linkedin.com/in/rajat-shinde/">LinkedIn | </a>
 <a href="https://www.twitter.com/shinde_rajat">Twitter | </a>
-<a href="https://github.com/omshinde">Github </a>
+<a href="https://github.com/omshinde">Github |</a>
 <a href="http://home.iitb.ac.in/~rajatshinde/pmrfWebPage/assets/docs/CV_RajatShinde.pdf">CV </a>
 
 ### <heading> News </heading>
