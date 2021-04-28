@@ -104,15 +104,15 @@ My research interests lie at the intersection of 3D computer vision, machine lea
 ### <heading> News </heading>
 <news><p>
   <ul>
-  	<li>[Apr 2021]: I would be mentoring for the <a href="https://www.osgeo.org/foundation-news/2021-osgeo-un-committee-educational-challenge/" target="_blank"> United Nations - OSGeo Open Education Challenge 2021. </a> 
+  	<li>[Apr 2021]: I would be mentoring for the <a href="https://www.osgeo.org/foundation-news/2021-osgeo-un-committee-educational-challenge/" target="_blank"> <b>United Nations - OSGeo Open Education Challenge 2021.</b> </a> 
 	</li>
-  <li>[Apr 2021]: My <a href="https://youtu.be/0BWB33IZTgE" target="_blank">talk </a> on EcoViz was broadcast live in the Geo for Good Lightning Talk series hosted by Google Earth Outreach.</a> 
+  <li>[Apr 2021]: My <a href="https://youtu.be/0BWB33IZTgE" target="_blank">talk </a> on EcoViz was broadcast live in the <b>Geo for Good Lightning Talk series</b> hosted by Google Earth Outreach. 
 	</li>
-    <li>[Apr 2021]: It was an amazing learning experience attending the Google Graduate Symposium; Made new friends, attended highly insightful talks and lectures. 
+    <li>[Apr 2021]: It was an amazing learning experience attending the <b>Google Graduate Symposium</b>; Made new friends, attended highly insightful talks and lectures. 
 	</li>
-    <li>[Apr 2021]: Our Paper got selected for the IEEE STRATUS 2021 conference (virtual conference)
+    <li>[Apr 2021]: Our Paper got selected for the <b>IEEE STRATUS 2021 </b>conference (virtual conference)
 	</li>
-    <li>[Mar 2021]: 3 Papers selected in the IEEE IGARSS 2021 (virtual conference)
+    <li>[Mar 2021]: 3 Papers selected in the <b>IEEE IGARSS 2021 </b><i>(virtual conference).</i>
 	</li>
     <li>[Jan 2021]: Our <a href="https://doi.org/10.3390/ijgi10010032" target="_blank">work</a> on rendering Comprehensive Spatio-Contextual Grounded Natural Language Scene Descriptions from Remote Sensing Scenes has been published in the Special Issue on <a href="https://www.mdpi.com/journal/ijgi/special_issues/geo_ai" target="_blank">"Geospatial Artifical Intelligence"</a>
 in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS International Journal of Geo-Information</a>.
@@ -120,10 +120,12 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
 	<li>
       [Jan 2021] Elected as PSC (Project Steering Committee) Member for the <i><a href="https://zoo-project.org/">ZOO-Project</a></i>
     </li>
+ 
+  <br/>
+  <!-- <a href="#link" onclick="$('iframe#moreNews').toggle()"> <b><i> Past news...</i></b></a><br /> -->
+  <a href="#link" onclick="moreNews()"> <b><i> Past news...</i></b></a><br />
 
-  <a href="#link" onclick="$('iframe#moreNews').toggle()"> <i> Past news...</i></a><br />
-
-  <iframe srcdoc="" id="moreNews" height="90%" width="100%" scrolling="yes" style="display:none">
+  <div id="moreNews" height="90%" width="100%" scrolling="yes" style="display:none">
   	<li>
       [June 2020] 2 Papers selected as Oral Presentation at the IEEE IGARSS 2020 <i>(virtual conference)</i>
     </li>
@@ -148,7 +150,7 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
     <li>
       [July 2019] Webinar on "Hyperparameter Tuning in Google Earth Engine" at the <a href="https://youtu.be/CfPJb5iAsKg">Community on Air Webinar </a>organized by the Google Earth Engine India Community
     </li>
-    </iframe>
+    </div>
   </ul>
 </p>
 </news>
@@ -436,3 +438,14 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
     [Prime Minister's Trophy Sarvottam Scholarship]({{site.baseurl}}/assets/images/SAIL-PM-Btech.jpg) granted by SAIL (2012-2016) <br/>
     [National Institute of Technology Raipur](https://nitrr.ac.in), India <br/>
     [Thesis]({{site.baseurl}}/assets/docs/BTechThesis.pdf)
+
+  <script>
+    function moreNews() {
+  var x = document.getElementById("moreNews");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+} 
+  </script>
