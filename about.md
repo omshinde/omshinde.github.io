@@ -241,8 +241,8 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
     <a href="https://ieeexplore.ieee.org/abstract/document/9323183">
         pdf | </a>
     <a href="#link" onclick="$('iframe#nlqaIgarss').toggle()"> BibTeX </a><br />
-     -->
-    <iframe srcdoc="<pre>@INPROCEEDINGS{9323183,
+
+  <iframe srcdoc="<pre>@INPROCEEDINGS{9323183,
   author={Potnis, Abhishek V. and Shinde, Rajat C. and Durbha, Surya S.},
   booktitle={IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium}, 
   title={Towards Natural Language Question Answering Over Earth Observation Linked Data Using Attention-Based Neural Machine Translation}, 
@@ -489,7 +489,7 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
 
   <script>
     function moreNews() {
-  var x = document.getElementById("moreNews");
+  var x = document.getElementById("moreNewsBox");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
