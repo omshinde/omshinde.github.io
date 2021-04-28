@@ -125,7 +125,7 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
   <!-- <a href="#link" onclick="$('iframe#moreNews').toggle()"> <b><i> Past news...</i></b></a><br /> -->
   <a href="#link" onclick="$('iframe#myIframe').toggle()"> <b><i> Past news...</i></b></a><br />
   
-  <iframe src="pastNews.html" id="myIframe" height="90%" width="100%" scrolling="yes" style="display:none">
+  <iframe src="pastNews.html" id="myIframe" height="90%" width="100%" scrolling="yes">
   <!-- <div id="moreNews" height="90%" width="100%"> -->
   	<!-- <li>
       [June 2020] 2 Papers selected as Oral Presentation at the IEEE IGARSS 2020 <i>(virtual conference)</i>
