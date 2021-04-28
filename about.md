@@ -114,11 +114,11 @@ My research interests lie at the intersection of 3D computer vision, machine lea
 	</li>
     <li>[Mar 2021]: 3 Papers selected in the <b>IEEE IGARSS 2021 </b><i>(virtual conference).</i>
 	</li>
-    <li>[Jan 2021]: Our <a href="https://doi.org/10.3390/ijgi10010032" target="_blank">work</a> on rendering Comprehensive Spatio-Contextual Grounded Natural Language Scene Descriptions from Remote Sensing Scenes has been published in the Special Issue on <a href="https://www.mdpi.com/journal/ijgi/special_issues/geo_ai" target="_blank">"Geospatial Artifical Intelligence"</a>
+    <li>[Jan 2021]: Our <a href="https://doi.org/10.3390/ijgi10010032" target="_blank">work</a> on rendering <i>Comprehensive Spatio-Contextual Grounded Natural Language Scene Descriptions from Remote Sensing Scenes</i> has been published in the Special Issue on <a href="https://www.mdpi.com/journal/ijgi/special_issues/geo_ai" target="_blank">"Geospatial Artifical Intelligence"</a>
 in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS International Journal of Geo-Information</a>.
 	</li>
 	<li>
-      [Jan 2021] Elected as PSC (Project Steering Committee) Member for the <i><a href="https://zoo-project.org/">ZOO-Project</a></i>
+      [Jan 2021] Elected as <b>PSC (Project Steering Committee) Member</b> for the <a href="https://zoo-project.org/">ZOO-Project</a>
     </li>
  
   <br/>
@@ -159,6 +159,38 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
 ### <heading> Research </heading>
 <p>
 <ul>
+<li><papertitle>Towards Enabling Deep Learning Based Question-Answering for 3D LiDAR Point Clouds</papertitle> <br/>
+    Rajat Shinde, Surya Durbha, Abhishek Potnis, Pratyush Talreja, Gaganpreet Singh <br/>
+    <i>Accepted in IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2021, virtual conference) </i> <br/>
+    <!-- <a href="https://ieeexplore.ieee.org/abstract/document/8899871">
+        pdf | </a>
+    <a href="#link" onclick="$('iframe#csIgarss').toggle()"> BibTeX </a><br /> -->
+    
+  </li>
+  <li><papertitle>Deep Learning based Real-time Building Classification using UAV Imagery</papertitle> <br/>
+    Pratyush Talreja, Surya Durbha, Rajat Shinde, Abhishek Potnis <br/>
+    <i>Accepted in IEEE Systems and Technologies for Remote Sensing Applications Through Unmanned Aerial Systems (STRATUS 2021, virtual conference) </i> <br/>
+    <!-- <a href="https://ieeexplore.ieee.org/abstract/document/8899871">
+        pdf | </a>
+    <a href="#link" onclick="$('iframe#csIgarss').toggle()"> BibTeX </a><br /> -->
+    
+  </li>
+  <li><papertitle>Towards Visual Exploration of Semantically Enriched Remote Sensing Scene Knowledge Graphs (RSS-KGS)</papertitle> <br/>
+    Abhishek Potnis, Surya Durbha, Rajat Shinde, Pratyush Talreja <br/>
+    <i>Accepted in IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2021, virtual conference) </i> <br/>
+    <!-- <a href="https://ieeexplore.ieee.org/abstract/document/8899871">
+        pdf | </a>
+    <a href="#link" onclick="$('iframe#csIgarss').toggle()"> BibTeX </a><br /> -->
+    
+  </li>
+  <li><papertitle>Real-time Embedded HPC Based Earthquake Damage Mapping Using 3D LiDAR Point Clouds</papertitle> <br/>
+    Pratyush Talreja, Surya Durbha, Rajat Shinde, Abhishek Potnis <br/>
+    <i>Accepted in IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2021, virtual conference) </i> <br/>
+    <!-- <a href="https://ieeexplore.ieee.org/abstract/document/8899871">
+        pdf | </a>
+    <a href="#link" onclick="$('iframe#csIgarss').toggle()"> BibTeX </a><br /> -->
+    
+  </li>
 	<li><papertitle>Semantics-Driven Remote Sensing Scene Understanding Framework for Grounded Spatio-Contextual Scene Descriptions</papertitle> <br/>
     Abhishek Potnis, Surya Durbha, Rajat Shinde <br/>
     <i><a href="https://www.mdpi.com/journal/ijgi">ISPRS International Journal of Geo-Information</a></i> <br/>
