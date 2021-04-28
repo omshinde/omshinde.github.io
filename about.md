@@ -123,11 +123,11 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
  
   <br/>
   <!-- <a href="#link" onclick="$('iframe#moreNews').toggle()"> <b><i> Past news...</i></b></a><br /> -->
-  <a href="#link" onclick="$('iframe#myIframe').toggle()"> <b><i> Past news...</i></b></a><br />
+  <a href="#link" onclick="moreNews()"> <b><i> Past news...</i></b></a><br />
   
-  <iframe src="./pastNews.md" id="myIframe" height="90%" width="100%" scrolling="yes">
-  <!-- <div id="moreNews" height="90%" width="100%"> -->
-  	<!-- <li>
+  <!-- <iframe src="./pastNews.md" id="myIframe" height="90%" width="100%" scrolling="yes"> -->
+  <div id="moreNews" height="90%" width="100%">
+  	<li>
       [June 2020] 2 Papers selected as Oral Presentation at the IEEE IGARSS 2020 <i>(virtual conference)</i>
     </li>
   	<li>
@@ -150,9 +150,9 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
     </li>
     <li>
       [July 2019] Webinar on "Hyperparameter Tuning in Google Earth Engine" at the <a href="https://youtu.be/CfPJb5iAsKg">Community on Air Webinar </a>organized by the Google Earth Engine India Community
-    </li> -->
-    <!-- </div> -->
-    </iframe>
+    </li>
+    </div>
+    <!-- </iframe> -->
   </ul>
 </p>
 </news>
@@ -488,7 +488,7 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
 
   <script>
     function moreNews() {
-  var x = document.getElementById("iframe#myIframe");
+  var x = document.getElementById("moreNews");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
