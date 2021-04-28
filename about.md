@@ -223,7 +223,7 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
         pdf | </a>
     <a href="#link" onclick="$('iframe#odlIgarss').toggle()"> BibTeX </a><br />
 
-    <!-- <iframe srcdoc="<pre>@INPROCEEDINGS{9323992,
+  <iframe srcdoc="<pre>@INPROCEEDINGS{9323992,
   author={Shinde, Rajat C. and Potnis, Abhishek V. and Durbha, Surya S.},
   booktitle={IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium}, 
   title={Online Point Cloud Super Resolution using Dictionary Learning for 3D Urban Perception}, 
@@ -232,7 +232,7 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
   number={},
   pages={4414-4417},
   doi={10.1109/IGARSS39084.2020.9323992}}</pre>" id="odlIgarss" height="90%" width="100%" scrolling="yes" style="display:none">
-</iframe> -->
+</iframe>
     
   </li>
   <li><papertitle>Towards Natural Language Question Answering Over Earth Observation Linked Data Using Attention-based Neural Machine Translation </papertitle> <br/>
