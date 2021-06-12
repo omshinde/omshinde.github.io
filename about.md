@@ -104,8 +104,8 @@ My research interests lie at the intersection of 3D computer vision, machine lea
 ### <heading> News </heading>
 <news><p>
   <ul>
-  	<li>[June 2021]: I recently participated in an invited Science & Technology Open House webinar on the topic - <b>"YOUNG TURKS : FROM OUTREACH, RESEARCH AND SCIENCE COMMUNICATION".</b> It was an amazing interaction.<a href="https://youtu.be/YXCHrzhZAbk" target="_blank"><i>Link to the YouTube video.</i></a> 
-	</li>
+  	<li>[June 2021]: I recently participated in an invited <i> Science & Technology Open House </i> webinar on the topic - <b>"Young Turks: From Outreach, Research And Science Communication".</b> It was an amazing interaction. <a href="https://youtu.be/YXCHrzhZAbk" target="_blank"><i>Link to the YouTube video.</i></a> 
+	</li></ul>
   <ul>
   	<li>[Apr 2021]: I would be mentoring for the <a href="https://www.osgeo.org/foundation-news/2021-osgeo-un-committee-educational-challenge/" target="_blank"> <b>United Nations - OSGeo Open Education Challenge 2021.</b> </a> 
 	</li>
