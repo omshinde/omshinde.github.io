@@ -105,8 +105,7 @@ My research interests lie at the intersection of 3D computer vision, machine lea
 <news><p>
   <ul>
   	<li>[June 2021]: I recently participated in an invited <i> Science & Technology Open House </i> webinar on the topic - <b>"Young Turks: From Outreach, Research And Science Communication".</b> It was an amazing interaction. <a href="https://youtu.be/YXCHrzhZAbk" target="_blank"><i>Link to the YouTube video.</i></a> 
-	</li></ul>
-  <ul>
+	</li>
   	<li>[Apr 2021]: I would be mentoring for the <a href="https://www.osgeo.org/foundation-news/2021-osgeo-un-committee-educational-challenge/" target="_blank"> <b>United Nations - OSGeo Open Education Challenge 2021.</b> </a> 
 	</li>
   <li>[Apr 2021]: My <a href="https://youtu.be/0BWB33IZTgE" target="_blank">talk </a> on EcoViz was broadcast live in the <b>Geo for Good Lightning Talk series</b> hosted by Google Earth Outreach. 
