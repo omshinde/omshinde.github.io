@@ -166,7 +166,7 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
 <ul>
 <li><papertitle>LidarCSNet: A Deep Convolutional Compressive Sensing Reconstruction Framework for 3D Airborne Lidar Point Cloud</papertitle> <br/>
     Rajat Shinde, Surya Durbha, Abhishek Potnis <br/>
-    <i>Accepted in ISPRS Journal of Photogrammetry and Remote Sensing (IF:8.979, ranking it 1 out of 50 in Geography, Physical <small> <a href="https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing">Source</small></a>) </i> <br/>
+    <i>Accepted in ISPRS Journal of Photogrammetry and Remote Sensing (IF:8.979, ranking it 1 out of 50 in Geography, Physical | <a href="https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing"> Source </a>) </i> <br/>
     <i>Yet to publish online</i>
     <!-- <a href="https://ieeexplore.ieee.org/abstract/document/8899871">
         pdf | </a>
