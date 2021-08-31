@@ -104,6 +104,8 @@ My research interests lie at the intersection of 3D computer vision, machine lea
 ### <heading> News </heading>
 <news><p>
   <ul>
+  <li>[Aug 2021]: Our work - <b>"LidarCSNet: A Deep Convolutional Compressive Sensing Reconstruction Framework for 3D Airborne Lidar Point Cloud" </b> has been accepted for publication in the <i>ISPRS Journal of Photogrammetry and Remote Sensing </i> (IF:8.979, #1 ranked journal out of 50 in Geography, Physical). &#128515;
+	</li>
   	<li>[June 2021]: I recently participated in an invited <i> Science & Technology Open House </i> webinar on the topic - <b>"Young Turks: From Outreach, Research And Science Communication".</b> It was an amazing interaction. <a href="https://youtu.be/YXCHrzhZAbk" target="_blank"><i>Link to the YouTube video.</i></a> 
 	</li>
   	<li>[Apr 2021]: I would be mentoring for the <a href="https://www.osgeo.org/foundation-news/2021-osgeo-un-committee-educational-challenge/" target="_blank"> <b>United Nations - OSGeo Open Education Challenge 2021.</b> </a> 
@@ -162,6 +164,15 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
 ### <heading> Research </heading>
 <p>
 <ul>
+<li><papertitle>LidarCSNet: A Deep Convolutional Compressive Sensing Reconstruction Framework for 3D Airborne Lidar Point Cloud</papertitle> <br/>
+    Rajat Shinde, Surya Durbha, Abhishek Potnis <br/>
+    <i>Accepted in ISPRS Journal of Photogrammetry and Remote Sensing (IF:8.979, ranking it 1 out of 50 in Geography, Physical <small> <a href="https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing">Source</small></a>) </i> <br/>
+    <i>Yet to publish online</i>
+    <!-- <a href="https://ieeexplore.ieee.org/abstract/document/8899871">
+        pdf | </a>
+    <a href="#link" onclick="$('iframe#csIgarss').toggle()"> BibTeX </a><br /> -->
+    
+  </li>
 <li><papertitle>Towards Enabling Deep Learning Based Question-Answering for 3D LiDAR Point Clouds</papertitle> <br/>
     Rajat Shinde, Surya Durbha, Abhishek Potnis, Pratyush Talreja, Gaganpreet Singh <br/>
     <i>Accepted in IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2021, virtual conference) </i> <br/>
