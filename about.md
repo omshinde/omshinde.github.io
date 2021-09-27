@@ -104,7 +104,7 @@ My research interests lie at the intersection of 3D computer vision, machine lea
 ### <heading> News </heading>
 <news><p>
   <ul>
-  <li>[Aug 2021]: Our work - <b>"LidarCSNet: A Deep Convolutional Compressive Sensing Reconstruction Framework for 3D Airborne Lidar Point Cloud" </b> has been accepted for publication in the <i>ISPRS Journal of Photogrammetry and Remote Sensing </i> (IF:8.979, #1 ranked journal out of 50 in Geography, Physical). &#128515;
+  <li>[Aug 2021]: Our work - <b>"<a href="https://authors.elsevier.com/a/1dixJ3I9x1fLGC" target="_blank">LidarCSNet: A Deep Convolutional Compressive Sensing Reconstruction Framework for 3D Airborne Lidar Point Cloud" </a></b> has been accepted for publication in the <i>ISPRS Journal of Photogrammetry and Remote Sensing </i> (IF:8.979, #1 ranked journal out of 50 in Geography, Physical). &#128515;
 	</li>
   	<li>[June 2021]: I recently participated in an invited <i> Science & Technology Open House </i> webinar on the topic - <b>"Young Turks: From Outreach, Research And Science Communication".</b> It was an amazing interaction. <a href="https://youtu.be/YXCHrzhZAbk" target="_blank"><i>Link to the YouTube video.</i></a> 
 	</li>
@@ -167,10 +167,22 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
 <li><papertitle>LidarCSNet: A Deep Convolutional Compressive Sensing Reconstruction Framework for 3D Airborne Lidar Point Cloud</papertitle> <br/>
     Rajat Shinde, Surya Durbha, Abhishek Potnis <br/>
     <i>Accepted in ISPRS Journal of Photogrammetry and Remote Sensing (IF:8.979, ranking it 1 out of 50 in Geography, Physical | <a href="https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing"> Source </a>) </i> <br/>
-    <i>Yet to publish online</i>
-    <!-- <a href="https://ieeexplore.ieee.org/abstract/document/8899871">
+    <a href="https://authors.elsevier.com/a/1dixJ3I9x1fLGC">
         pdf | </a>
-    <a href="#link" onclick="$('iframe#csIgarss').toggle()"> BibTeX </a><br /> -->
+    <a href="#link" onclick="$('iframe#csJPRS').toggle()"> BibTeX </a><br />
+
+  <iframe srcdoc="<pre>@article{Shinde2021,
+    doi = {10.1016/j.isprsjprs.2021.08.019},
+    url = {https://doi.org/10.1016/j.isprsjprs.2021.08.019},
+    year = {2021},
+    month = aug,
+    publisher = {% raw %}{Elsevier}{% endraw %},
+    volume = {180},
+    pages = {313-334},
+    author = {Rajat C. Shinde, Surya S. Durbha, Abhishek V. Potnis},
+    title = {LidarCSNet: A Deep Convolutional Compressive Sensing Reconstruction Framework for 3D Airborne Lidar Point Cloud},
+    journal = {% raw %}{{ISPRS Journal of Photogrammetry and Remote Sensing}}{% endraw %}</pre>" id="csJPRS" height="90%" width="100%" scrolling="yes" style="display:none">
+  </iframe>
     
   </li>
 <li><papertitle>Towards Enabling Deep Learning Based Question-Answering for 3D LiDAR Point Clouds</papertitle> <br/>
