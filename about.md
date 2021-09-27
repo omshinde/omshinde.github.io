@@ -434,12 +434,31 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
 ### <heading>Open Source Contributions</heading>
 <p><ul>
   <li>
+    <strong>Google Summer of Code 2021 </strong> Organization Administrator <br/> 
+    <strong>Google Summer of Code 2021 </strong>Mentor for <a href="http://mapmint.com/"> MapMint</a> under <a href="https://www.osgeo.org/">OSGeo</a> organization 
+  </li><br/>
+  <li>
+  <li>
+
+    <strong>Google Summer of Code 2021 </strong> Organization Administrator <br/>
+    <strong>Google Summer of Code 2020 </strong>Mentor for <a href="http://mapmint.com/"> MapMint</a> under <a href="https://summerofcode.withgoogle.com/archive/2020/organizations/5355444958134272/">OSGeo</a> organization 
+    <ul>
+        <li>Enhancing AR Support for MapMint4ME and adding GPS Satellite Tracking
+
+          <p> Work Done by <a href="https://in.linkedin.com/in/aditi-sawant-a4baa4122">Aditi Sawant</a> <br/>
+          <a href="https://summerofcode.withgoogle.com/archive/2020/projects/6315957250686976/"> Project |</a>
+          <a href="https://github.com/aditis1204/MapMint4ME/wiki/Final-Report:-GSoC-2020"> Report </a>
+          </p>
+        </li>
+    </ul>
+  </li><br/>
+  <li>
 
     <strong>Google Summer of Code 2019 </strong>Mentor for <a href="http://mapmint.com/"> MapMint</a> under <a href="https://summerofcode.withgoogle.com/archive/2017/organizations/4554340639440896/">OSGeo</a> organization 
     <ul>
         <li>Adding Augmented Reality (AR) support to the MapMint4ME Android Application
 
-          <p>
+          <p>Work Done by <a href="https://in.linkedin.com/in/adityachondke">Aditya Chondke</a> <br/>
           <a href="https://summerofcode.withgoogle.com/archive/2019/projects/5962182162907136/"> Project |</a>
           <a href="https://github.com/AdityaChondke/MapMint4ME/wiki/Final-Report-GSoC-2019"> Report </a>
           </p>
@@ -447,7 +466,7 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
 
         <li>MapMint - porting from Python 2.x to Python 3.x
 
-        <p>
+        <p>Work Done by <a href="https://www.linkedin.com/in/fenilgmehta/">Fenil Mehta</a> <br/>
         <a href="https://summerofcode.withgoogle.com/archive/2019/projects/4859857885200384/"> Project |</a>
         <a href="https://github.com/fenilgmehta/mapmint/wiki/GSoC-2019---Final-Report"> Report </a>
         </p>
