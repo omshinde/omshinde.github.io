@@ -438,9 +438,8 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
     <strong>Google Summer of Code 2021 </strong>Mentor for <a href="http://mapmint.com/"> MapMint</a> under <a href="https://www.osgeo.org/">OSGeo</a> organization 
   </li><br/>
   <li>
-  <li>
 
-    <strong>Google Summer of Code 2021 </strong> Organization Administrator <br/>
+    <strong>Google Summer of Code 2020 </strong> Organization Administrator <br/>
     <strong>Google Summer of Code 2020 </strong>Mentor for <a href="http://mapmint.com/"> MapMint</a> under <a href="https://summerofcode.withgoogle.com/archive/2020/organizations/5355444958134272/">OSGeo</a> organization 
     <ul>
         <li>Enhancing AR Support for MapMint4ME and adding GPS Satellite Tracking
