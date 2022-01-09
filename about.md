@@ -433,6 +433,24 @@ in the <a href="https://www.mdpi.com/journal/ijgi" target="_blank">ISPRS Interna
 </ul>
 </p>
  
+### <heading>Leadership</heading>
+<p><ul>
+<li> <a href="https://www.osgeo.org/about/board/">OSGeo Board of Directors - Member </a> (Dec. 2021 - Present)
+Role: Elected as a Board Member by the existing worldwide Charter members for the
+Open Source Geospatial Foundation (OSGeo) 
+</li>
+<li> <a href="http://www.zoo-project.org/ZOO-Project/ZOO-Tribe">Project Steering Committee Member </a>(Jan. 2021 - Present)
+  <li>Elected as one of the PSC Member for the ZOO-Project </li>
+  <li>Contributing to an active Open Geospatial Consortium (OGC)-Web Processing Ser-
+vice (WPS) standard based open-source project used by various geospatial clients </li>
+</li>
+<li> <a href="https://www.osgeo.org/member/shinde/">OSGeo Charter Member </a> (Jul. 2018 - Present)
+Nominated as one of the international Charter Member of the Open Source Geospatial Foundation for spreading awareness about the open-source geospatial science and development 
+</li>
+<li>Company Coordinator (awarded Certificate of Excellence towards work ethics and commitment 2017-18) - Coordinated with the firms and helped ∼ 1600 students during
+campus placements </li>
+</ul>
+
 ### <heading>Open Source Contributions</heading>
 <p><ul>
   <li>
