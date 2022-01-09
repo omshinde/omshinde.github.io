@@ -441,8 +441,7 @@ Open Source Geospatial Foundation (OSGeo)
 </li>
 <li> <a href="http://www.zoo-project.org/ZOO-Project/ZOO-Tribe">Project Steering Committee Member </a>(Jan. 2021 - Present)
   <ul><li>Elected as one of the PSC Member for the ZOO-Project </li>
-  <li>Contributing to an active Open Geospatial Consortium (OGC)-Web Processing Ser-
-vice (WPS) standard based open-source project used by various geospatial clients </li></ul>
+  <li>Contributing to an active Open Geospatial Consortium (OGC)-Web Processing Service (WPS) standard based open-source project used by various geospatial clients </li></ul>
 </li>
 <li> <a href="https://www.osgeo.org/member/shinde/">OSGeo Charter Member </a> (Jul. 2018 - Present) <br/>
 Nominated as one of the international Charter Member of the Open Source Geospatial Foundation for spreading awareness about the open-source geospatial science and development 
