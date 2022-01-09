@@ -104,7 +104,9 @@ My research interests lie at the intersection of 3D computer vision, machine lea
 ### <heading> News </heading>
 <news><p>
   <ul>
-  <li>[Aug 2021]: Our work - <b>"<a href="https://authors.elsevier.com/a/1dixJ3I9x1fLGC" target="_blank">LidarCSNet: A Deep Convolutional Compressive Sensing Reconstruction Framework for 3D Airborne Lidar Point Cloud" </a></b> has been accepted for publication in the <i>ISPRS Journal of Photogrammetry and Remote Sensing </i> (IF:8.979, #1 ranked journal out of 50 in Geography, Physical). &#128515;
+  <li>[Dec 2022]: I got elected as an <a href="https://www.osgeo.org/about/board/">OSGeo Board member </a> for the current cycle. Thanks to the amazing OSGeo community for the trust and support. &#128515; 
+	</li>
+  <li>[Aug 2021]: Our work - <b>"<a href="https://authors.elsevier.com/a/1dixJ3I9x1fLGC" target="_blank">LidarCSNet: A Deep Convolutional Compressive Sensing Reconstruction Framework for 3D Airborne Lidar Point Cloud" </a></b> has been accepted for publication in the <i>ISPRS Journal of Photogrammetry and Remote Sensing </i> (IF:8.979, #1 ranked journal out of 50 in Geography, Physical). 
 	</li>
   	<li>[June 2021]: I recently participated in an invited <i> Science & Technology Open House </i> webinar on the topic - <b>"Young Turks: From Outreach, Research And Science Communication".</b> It was an amazing interaction. <a href="https://youtu.be/YXCHrzhZAbk" target="_blank"><i>Link to the YouTube video.</i></a> 
 	</li>
