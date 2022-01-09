@@ -104,7 +104,7 @@ My research interests lie at the intersection of 3D computer vision, machine lea
 ### <heading> News </heading>
 <news><p>
   <ul>
-  <li>[Dec 2022]: I got elected as an <a href="https://www.osgeo.org/about/board/">OSGeo Board member </a> for the current cycle. Thanks to the amazing OSGeo community for the trust and support. &#128515; 
+  <li>[Dec 2021]: I got elected as an <a href="https://www.osgeo.org/about/board/">OSGeo Board member </a> for the current cycle. Thanks to the amazing OSGeo community for the trust and support. &#128515; 
 	</li>
   <li>[Aug 2021]: Our work - <b>"<a href="https://authors.elsevier.com/a/1dixJ3I9x1fLGC" target="_blank">LidarCSNet: A Deep Convolutional Compressive Sensing Reconstruction Framework for 3D Airborne Lidar Point Cloud" </a></b> has been accepted for publication in the <i>ISPRS Journal of Photogrammetry and Remote Sensing </i> (IF:8.979, #1 ranked journal out of 50 in Geography, Physical). 
 	</li>
