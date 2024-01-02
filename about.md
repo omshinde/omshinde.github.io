@@ -77,7 +77,7 @@ permalink: /about/
         <td width="70%" valign="middle">
           <p align="center">
           </p>
-          <p>I am a Masters-PhD (Dual Degree) Student in Geo-informatics and a <a href='https://pmrf.in/'>Prime Minister's Research Fellow </a>(2018) working under the supervision of <a href='https://www.csre.iitb.ac.in/~sdurbha'> Prof. Surya S Durbha </a> at the <a href='https://www.geosysiot.in'> Geocomputational Systems and IoT Group </a> in <a href='https://www.csre.iitb.ac.in'> Centre of Studies in Resources Engineering </a>, <a href='https://www.iitb.ac.in'> IIT Bombay</a>. I have completed my undergraduation in Electronics and Telecommunication Engineering from <a href='https://www.nitrr.ac.in'> National Institute of Technology Raipur </a> in 2016.
+          <p>I am a Computer Scientist working at the NASA IMPACT - UAH and currently residing in Huntsville, US. I defended my Ph.D. in Geo-informatics as a <a href='https://pmrf.in/'>Prime Minister's Research Fellow </a>(2018) working under the supervision of <a href='https://www.csre.iitb.ac.in/~sdurbha'> Prof. Surya S Durbha </a> at the <a href='https://www.geosysiot.in'> Geocomputational Systems and IoT Group </a> in <a href='https://www.csre.iitb.ac.in'> Centre of Studies in Resources Engineering </a>, <a href='https://www.iitb.ac.in'> IIT Bombay</a>. I have completed my undergraduation in Electronics and Telecommunication Engineering from <a href='https://www.nitrr.ac.in'> National Institute of Technology Raipur </a> in 2016.
           </p>
           <p>
 	     I love to play flute and save shots on a goal post while playing football.
@@ -104,6 +104,8 @@ My research interests lie at the intersection of 3D computer vision, machine lea
 ### <heading> News </heading>
 <news><p>
   <ul>
+  <li>[Apr 2023]: Defended my Ph.D. and joining NASA IMPACT as a Computer Scientist. New location - Huntsville.
+	</li>
   <li>[Feb 2022]: I would be contributing as a General Program Committee member for the FOSS4G 2022 to be organized in Firenze, Italy.
 	</li>
   <li>[Dec 2021]: I got elected as an <a href="https://www.osgeo.org/about/board/">OSGeo Board member </a> for the current cycle. Thanks to the amazing OSGeo community for the trust and support. &#128515; 
