@@ -92,14 +92,13 @@ permalink: /about/
 
 My research interests lie at the intersection of 3D computer vision, machine learning, embedded systems, Internet of Things, high-performance computing and signal processing. My Masters-PhD topic involves application of deep learning for onboard point cloud processing. <br/>
 
-<a href="mailto:rajatshinde@iitb.ac.in">Email | </a>
+<a href="mailto:rajat.shinde[at]uah[dot]edu">Email | </a>
 <a href="https://scholar.google.com/citations?hl=en&user=8T3fy5wAAAAJ">Scholar | </a>
 <a href="https://orcid.org/0000-0002-9505-6204">ORCID | </a>
 <a href="https://www.osgeo.org/member/shinde/">OSGeo | </a>
 <a href="https://www.linkedin.com/in/rajat-shinde/">LinkedIn | </a>
 <a href="https://www.twitter.com/shinde_rajat">Twitter | </a>
 <a href="https://github.com/omshinde">Github |</a>
-<a href="http://home.iitb.ac.in/~rajatshinde/pmrfWebPage/assets/docs/CV_RajatShinde.pdf">CV </a>
 
 ### <heading> News </heading>
 <news><p>
