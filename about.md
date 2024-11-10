@@ -74,7 +74,7 @@ permalink: /about/
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
       <tr>
-        <td width="70%" valign="middle">
+        <td width="60%" valign="middle"> 
           <p align="center">
           </p>
           <p>I am a Computer Scientist working at the NASA IMPACT - UAH and currently residing in Huntsville, US. I defended my Ph.D. in Geo-informatics as a <a href='https://pmrf.in/'>Prime Minister's Research Fellow </a>(2018) working under the supervision of <a href='https://www.csre.iitb.ac.in/~sdurbha'> Prof. Surya S Durbha </a> at the <a href='https://www.geosysiot.in'> Geocomputational Systems and IoT Group </a> in <a href='https://www.csre.iitb.ac.in'> Centre of Studies in Resources Engineering </a>, <a href='https://www.iitb.ac.in'> IIT Bombay</a>. I have completed my undergraduation in Electronics and Telecommunication Engineering from <a href='https://www.nitrr.ac.in'> National Institute of Technology Raipur </a> in 2016.
@@ -83,8 +83,8 @@ permalink: /about/
 	     I love to play flute and save shots on a goal post while playing football.
           </p>
         </td>
-        <td width="30%">
-          <center><img src="{{site.baseurl}}/assets/images/rajat_dp.jpg" style="width:80%;"></center>
+        <td width="40%">
+          <center><img src="{{site.baseurl}}/assets/images/rajat_dp.jpg" style="width:90%;border-radius: 50%;"></center>
         </td>
       </tr>
 </table>
