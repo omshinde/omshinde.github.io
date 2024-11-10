@@ -84,7 +84,7 @@ permalink: /about/
           </p>
         </td>
         <td width="30%">
-          <center><img src="{{site.baseurl}}/assets/images/rajat_dp.jpeg" style="width:80%;"></center>
+          <center><img src="{{site.baseurl}}/assets/images/rajat_dp.jpg" style="width:80%;"></center>
         </td>
       </tr>
 </table>
