@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
+permalink: /index/
 ---
 
 <style type="text/css">
@@ -84,7 +84,7 @@ permalink: /about/
           </p>
         </td>
         <td width="30%">
-          <center><img src="{{site.baseurl}}/assets/images/me.jpg" style="width:80%;"></center>
+          <center><img src="{{site.baseurl}}/assets/images/rajat_dp.jpg" style="width:80%;"></center>
         </td>
       </tr>
 </table>
